@@ -1,0 +1,23 @@
+{
+  "name": "birdapp_v4",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "main.js",
+  "dependencies": {
+    "curl": "^0.1.4",
+    "es6-promise": "^4.2.5",
+    "faker": "^4.1.0",
+    "fetch": "^1.1.0",
+    "isomorphic-fetch": "^2.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+  "type": "git",
+  "url": "git://github.com/username/repository.git"
+},
+  "author": "Eric Wendt",
+  "license": "ISC"
+}
